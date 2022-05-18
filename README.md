@@ -1,4 +1,6 @@
 <div id="header" align="center">
+  <p>Hi there 👋</p>
+  <p>I'm Orem Gitonga, a Full Stack Developer</p>
   <img src="https://media.giphy.com/media/26SdS6M9jzxdqq72JU/giphy.gif" width="200"/>
 </div>
 <div id="badges" align="center">
@@ -11,8 +13,6 @@
 </div>
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mgorem&style=flat-square&color=blue" alt=""/>
-  <p>Hi there 👋</p>
-  <p>I'm Orem Gitonga</p>
 </div>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
