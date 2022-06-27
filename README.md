@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <p>Hi there 👋</p>
   <p>I'm Orem Gitonga, a Software Developer <br /> Working on both web and mobile apps <br /> I love to ls</p>
-  <img src="https://media.giphy.com/media/26SdS6M9jzxdqq72JU/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/26SdS6M9jzxdqq72JU/giphy.gif" width="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/orem-gitonga-b37b9319b/">
