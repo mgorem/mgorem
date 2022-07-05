@@ -28,7 +28,7 @@
 
 - :seedling: Exploring Software Development.
 
-- :zap: In my free time, I solve problems on leetcode or fellow programmers and read tech articles.
+- :zap: In my free time, I solve problems on leetcode and read tech articles or join fellow programmers in team contributions.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-mgorem-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/orem-gitonga-b37b9319b/)
   <div>
@@ -43,6 +43,6 @@
 </div>
   ---
 
-### :fire: My Stats and language use:
+### :fire: My Stats and language proficiency:
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mgorem&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgorem&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
