@@ -30,7 +30,7 @@
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
   - :telescope: I’m currently a final year student of Mathematics and Computer Science and a contributor to frontend and backend for building web applications.
 
-- :seedling: Exploring Software Development.
+- :seedling: Exploring Software Development and intergration with Artificial Intelligence.
 
 - :zap: In my free time, I solve problems on leetcode and read tech articles or join fellow programmers in team contributions.
 
