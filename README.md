@@ -2,7 +2,7 @@
   <p>Hi there 👋</p>
   <p>I'm Orem Gitonga, a Software Developer 
   <br /> Working on both web and mobile apps <br />
-  <br>I am an aspiring AI Engineer with a core understanding of Software Engineering, Mathematics, Algorithms, and currently working on my AI skills.<br />
+  <br>I am an aspiring Artificial Intelligence Engineer with a core understanding of Software Engineering, Mathematics, Algorithms, and currently working on my AI skills.<br />
   <br>I love challenges and obviously<br />
   I love to ls</p>
   <img src="https://media.giphy.com/media/26SdS6M9jzxdqq72JU/giphy.gif" width="300"/>
