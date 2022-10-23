@@ -2,6 +2,7 @@
   <p>Hi there 👋</p>
   <p>I'm Orem Gitonga, a Software Developer 
   <br /> Working on both web apps and web3 dApps <br />
+  <br /> and tryingvto integrate the web, AI and Blockchain <br />
   <br>I am an aspiring Artificial Intelligence Engineer with a core understanding of Software Engineering, Mathematics, Algorithms, and currently working on my AI skills.<br />
   <br>I love challenges and obviously<br />
   I love to ls</p>
