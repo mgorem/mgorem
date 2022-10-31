@@ -29,7 +29,7 @@
 
 ### :man_technologist: About Me :
   I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Kenya.
-  - :telescope: I’m currently a final year student of Mathematics and Computer Science and a contributor to frontend and backend for building web applications.
+  - :telescope: I’m a graduate of Mathematics and Computer Science and a contributor to frontend and backend and blockchain technologies for building tech solutions.
 
 - :seedling: Exploring Software Development and intergration with Artificial Intelligence.
 
