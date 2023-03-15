@@ -6,7 +6,7 @@
   <br>I am a Passionate programmer with a core understanding of Software Engineering, Mathematics, Algorithms, and currently upscaling my software engineering skills.<br />
   <br>I love challenges and obviously<br />
   I love to ls</p>
-  <img src="https://media.giphy.com/media/26SdS6M9jzxdqq72JU/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/26SdS6M9jzxdqq72JU/giphy.gif" width="500"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/orem-gitonga-b37b9319b/">
@@ -23,7 +23,7 @@
 <img src="https://komarev.com/ghpvc/?username=mgorem&style=flat-square&color=blue" alt=""/>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="300"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 ---
 
@@ -49,7 +49,7 @@
   ---
 
 ### :fire: My Stats and language proficiency:
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mgorem&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-  [![Github stats](https://github-readme-stats.vercel.app/api?username=mgorem&theme=highcontrast&show_icons=true&count_private=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgorem&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mgorem&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)]
+  [![Github stats](https://github-readme-stats.vercel.app/api?username=mgorem&theme=highcontrast&show_icons=true&count_private=true)]
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgorem&layout=compact&theme=vision-friendly-dark)]
   
