@@ -5,8 +5,8 @@
   <p>Hi there 👋</p>
   <p>I'm Orem M G. Let me take you through my github portfolio.</p>
   <div>
-      <img src="https://media.giphy.com/media/26SdS6M9jzxdqq72JU/giphy.gif" width="500"/>
-      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="375"/>
+      <img src="https://media.giphy.com/media/26SdS6M9jzxdqq72JU/giphy.gif" width="400"/>
+      <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
   </div>
   <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/orem-gitonga-b37b9319b/">
