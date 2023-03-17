@@ -1,9 +1,12 @@
-  <div align="center">
+# Hi there 👋
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Orem+M+Gitonga%2C+a+Software+Developer)](https://git.io/typing-svg)
+
+### Let me take you through my github portfolio
+
+<div align="center">
    <img src="https://komarev.com/ghpvc/?username=mgorem&style=flat-square&color=blue" alt=""/>
-  </div>
+</div>
 <div id="header">
-  <p>Hi there 👋</p>
-  <p>I'm Orem M G. Let me take you through my github portfolio.</p>
   <div>
       <img src="https://media.giphy.com/media/26SdS6M9jzxdqq72JU/giphy.gif" width="400"/>
       <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" height="300"/>
