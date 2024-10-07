@@ -49,13 +49,13 @@
 
 ### :man_technologist: About Me :
   I am a Software Developer from Kenya. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  - :telescope: I’m a graduate of Mathematics and Computer Science with a knack for building software.
+  - :telescope: I’m currently pursuing a Master's Degree in Information Technology.
 
-  - :seedling: Exploring Software Development and intergration with Artificial Intelligence.
+  - :seedling: Keen on keeping data, assets and the cyberspace safe.
 
-  - :zap: In my free time, I solve problems on leetcode and read tech articles or join fellow programmers in team contributions.
+  - :zap: In my free time, I solve problems on TryHackMe, HackTheBox and read tech articles or join fellow security experts in team contributions.
 
-  - :mailbox: I love to code on google docs and obviously...to ls
+  - :mailbox: I love to code on google docs and write spreadsheets on Vim.
 </div>
                                                                                                                         
   ### 💻 Tech Stack :
