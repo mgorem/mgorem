@@ -24,31 +24,14 @@
 </div>
   <p>
     Welcome to my github portfolio!
-    As a recent graduate proficient in software engineering concepts, JavaScript, C, Java, Python, and Solidity. 
-    I am excited to begin my career as a software developer. 
-    I have a strong foundation in programming languages and am eager to apply my skills to real-world projects.
+    If you have time, let's go through my "buggy" side.
 
-    My experience with JavaScript has allowed me to develop dynamic and interactive web applications, while my 
-    proficiency in C, Java, and Python has given me the ability to write efficient and effective software for 
-    various platforms. I am also familiar with Solidity, a programming language used to create smart contracts 
-    on the Ethereum blockchain.
-
-    Throughout my education and personal projects, I have gained experience with software development methodologies
-    such as Agile and Scrum, and have honed my skills in software testing and debugging. 
-    I am also comfortable working with databases and have experience with SQL.
-
-    In addition to my technical skills, I am a strong communicator and collaborator, having worked on group projects 
-    and collaborated with clients during internships. 
-    I am also dedicated to continuously learning and staying up-to-date with emerging technologies and trends in 
-    software development.
-
-    Overall, I am excited to bring my skills and enthusiasm to a software development team and contribute to the 
-    creation of innovative and impactful software.
+Cybersecurity student by day, part-time code wrangler by night! With a solid foundation in software development, I’m the go-to for breaking things (on purpose) to make them stronger. Think of me as your friendly neighborhood defender of data—balancing firewalls, frameworks, and a good meme to get through the day. Whether I’m outsmarting hackers or squashing bugs, I’m here to keep the digital world safer, one line of code at a time (with plenty of caffeine, of course)."
   </p>
 </div>
 
 ### :man_technologist: About Me :
-  I am a Software Developer from Kenya. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  I help companies protect their data. Ask me how. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   - :telescope: I’m currently pursuing a Master's Degree in Information Technology.
 
   - :seedling: Keen on keeping data, assets and the cyberspace safe.
