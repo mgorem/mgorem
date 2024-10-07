@@ -26,7 +26,7 @@
     Welcome to my github portfolio!
     If you have time, let's go through my "buggy" side.
 
-Cybersecurity student by day, part-time code wrangler by night! With a solid foundation in software development, I’m the go-to for breaking things (on purpose) to make them stronger. Think of me as your friendly neighborhood defender of data—balancing firewalls, frameworks, and a good meme to get through the day. Whether I’m outsmarting hackers or squashing bugs, I’m here to keep the digital world safer, one line of code at a time (with plenty of caffeine, of course)."
+Cybersecurity student by day, part-time code wrangler by night! With a solid foundation in software development, I’m the go-to for breaking things (on purpose) to make them stronger. Think of me as your friendly neighborhood defender of data—balancing firewalls, frameworks, and a good meme to get through the day. Whether I’m outsmarting hackers or squashing bugs, I’m here to keep the digital world safer, one line of code at a time (with plenty of caffeine, of course).
   </p>
 </div>
 
